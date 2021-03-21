@@ -1,0 +1,14 @@
+Package: convrt
+Type: Package
+Title: Converts some measurments and degrees
+Version: 0.1.0
+Author: Lily Portal
+Maintainer: Lily Portal <lilyportal86@gmail.com>
+Description: This package is a converting package. It converts any number 
+    from celsius to farenheit and farenheit to celsius. It also convers some 
+    metrics such as cups, fluid ounces, tablespoons, teaspoons, and mililiters.
+    It allows you to see how many of a measurment is in another.
+Depends: R (>= 3.1.2)
+License: CCO
+Encoding: UTF-8
+LazyData: true
